@@ -1,0 +1,7 @@
+Hello! This is a test of Hugo
+
+<h1>About</h1>
+
+{{ range where .Pages "Params.kind" "about" }}
+  {{ .Render "about" }}
+{{ end }}

@@ -1,8 +1,10 @@
 ---
-kind: "about"
-title: "All about me"
+kind: about
+title: All about me (updated)
 ---
+### Me
 
-### Favorite things
+I _enjoy_ modular about pages.
 
-I *enjoy* modular about pages.
+**This content added with Netlify CMS**
+
